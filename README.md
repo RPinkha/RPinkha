@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Ruven Pinkhasov</h1>
-<h3 align="center">A Chemical Engineer turned full stack software engineer from New York City</h3>
+<h3 align="center">A Chemical Engineer turned full stack software engineer from New York City!</h3>
 
 - I am currently colaborating on [Drops Care](https://github.com/jahorwitz/drops)
 
