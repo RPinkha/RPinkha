@@ -3,7 +3,7 @@
 
 - I am currently colaborating on [Drops Care](https://github.com/jahorwitz/drops)
 
-- 💬 Ask me about **react, GraphQL and tailwind**
+- 💬 Ask me about **React, GraphQL and Tailwind CSS**
 
 - 📫 You can reach me via Email at **Pinkhasov.Ruven@gmail.com**
 
